@@ -11,7 +11,8 @@ To create and execute SOAP-based web service program using server, client and cl
 Open NetBeans IDE.
 #### Step 2:
 Click File->New Project. Choose Java Web and then Web Application and click Next.
-![2](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/53b21d93-3784-4a69-b64a-ac255b66a132)
+![image](https://github.com/HemadharshiniMurugan/Ex-01-SOAP-based-Web-Services/assets/119404809/fe391d38-420c-4fbe-a7fc-a3d9aee79d5d)
+
 
 
 
@@ -20,7 +21,8 @@ Click File->New Project. Choose Java Web and then Web Application and click Next
 Give your Project a suitable Name and then click Next.
 #### Step 4:
 In the next window, make sure you have selected Server as “GlassFish Server” and Java EE Version as “Java EE 7 Web”. Click Finish.
- ![4](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/ba86ef64-1e67-4eba-9935-96d4b158fcde)
+ ![image](https://github.com/HemadharshiniMurugan/Ex-01-SOAP-based-Web-Services/assets/119404809/1f91a114-2a7a-4e80-82a0-b7eb0d3244e2)
+
 
  
 
